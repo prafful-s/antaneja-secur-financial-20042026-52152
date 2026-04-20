@@ -1,14 +1,14 @@
 {
   "mappings": [
-    "/content/luma-site/language-masters/en:/",
-    "/content/luma-site/language-masters/en/:/en/",
-    "/content/luma-site/configuration:/.helix/config.json",
-    "/content/luma-site/metadata:/metadata.json",
-    "/content/luma-site/redirects:/redirects.json",
-    "/content/luma-site/placeholders:/placeholders.json"
+    "/content/antaneja/69e5b7ee90e055f20a5e2f7f/language-masters/en:/",
+    "/content/antaneja/69e5b7ee90e055f20a5e2f7f/language-masters/en/:/en/",
+    "/content/antaneja/69e5b7ee90e055f20a5e2f7f/configuration:/.helix/config.json",
+    "/content/antaneja/69e5b7ee90e055f20a5e2f7f/metadata:/metadata.json",
+    "/content/antaneja/69e5b7ee90e055f20a5e2f7f/redirects:/redirects.json",
+    "/content/antaneja/69e5b7ee90e055f20a5e2f7f/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/luma-site/",
-    "/content/dam/luma-site/"
+    "/content/antaneja/69e5b7ee90e055f20a5e2f7f/",
+    "/content/dam/antaneja/69e5b7ee90e055f20a5e2f7f/"
   ]
 }
